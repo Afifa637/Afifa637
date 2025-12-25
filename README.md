@@ -5,7 +5,7 @@ CSE Undergraduate · Learner · Explorer
 
 ---
 
-### 👩‍💻 About Me (in code)
+### 👩‍💻 About Me
 
 ```python
 class AfifaSultana:
@@ -23,11 +23,11 @@ class AfifaSultana:
 🛠 Tech
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,html,css,mysql,git" /> </p>
 📌 Projects
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afifa637&repo=Portfolio&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afifa637&repo=AgroConnect01&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afifa637&repo=Heritage-Database-Project&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afifa637&repo=Portfolio&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afifa637&repo=AgroConnect01&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afifa637&repo=Heritage-Database-Project&theme=dark" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Afifa637&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afifa637&theme=tokyonight&hide_border=true" height="150"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Afifa637&show_icons=true&theme=dark&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afifa637&theme=dark&hide_border=true" height="150"/> </p>
 🧠 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afifa637&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afifa637&layout=compact&theme=dark&hide_border=true" /> </p>
 📈 Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afifa637&theme=tokyo-night&hide_border=true" /> </p>
 🐍 Contributions
